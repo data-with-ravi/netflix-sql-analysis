@@ -43,3 +43,9 @@ Netflix titles dataset containing information about movies and TV shows, includi
 - Most common movie duration: 90 minutes (152 movies)
 - Average movie duration: 99.58 minutes
 - Peak year for titles added: 2019 (2,016 titles)
+
+## Project Structure
+
+- `netflix_titles.csv` — Original Netflix dataset
+- `netflix_analysis.sql` — SQL queries used for data analysis
+- `README.md` — Project documentation
