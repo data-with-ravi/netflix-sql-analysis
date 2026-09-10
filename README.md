@@ -59,7 +59,7 @@ Netflix titles dataset containing information about movies and TV shows, includi
 ![Top Ratings](screenshots/02_top_ratings.png)
 
 ### 3. Top Countries
-![Top Countries](screenshots/03_top_countries.png)
+![Top Countries](screenshots/04_country_by_type.png.png)
 
 ### 4. Country by Type
 ![Country by Type](screenshots/04_country_by_type.png)
