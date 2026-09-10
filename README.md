@@ -65,7 +65,7 @@ Netflix titles dataset containing information about movies and TV shows, includi
 ![Country by Type](screenshots/04_country_by_type.png.png)
 
 ### 5. Titles Added by Year
-![Titles Added by Year]screenshots/(titles_added_by_year.png.png)
+![Titles Added by Year](screenshots/titles_added_by_year.png.png)
 
 ### 6. Release Year by Type
 ![Release Year by Type](screenshots/06_release_year_by_type.png.png)
