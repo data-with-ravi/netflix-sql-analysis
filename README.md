@@ -53,10 +53,10 @@ Netflix titles dataset containing information about movies and TV shows, includi
 ## Analysis Results
 
 ### 1. Movies vs TV Shows
-![Movie vs TV Show](screenshotsmovies-vs-tv-shows.png.png)
+![Movie vs TV Show](screenshots/screenshotsmovies-vs-tv-shows.png.png)
 
 ### 2. Top Ratings
-![Top Ratings](screenshots02_top_ratings.png.png)
+![Top Ratings](screenshots/02_top_ratings.png.png)
 
 ### 3. Top Countries
 ![Top Countries](screenshots/04_country_by_type.png.png)
