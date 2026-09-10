@@ -53,46 +53,46 @@ Netflix titles dataset containing information about movies and TV shows, includi
 ## Analysis Results
 
 ### 1. Movies vs TV Shows
-![Movie vs TV Show](screenshots/01_movie_vs_tv_show.png)
+![Movie vs TV Show](screenshotsmovies-vs-tv-shows.png.png)
 
 ### 2. Top Ratings
-![Top Ratings](screenshots/02_top_ratings.png)
+![Top Ratings](screenshots02_top_ratings.png.png)
 
 ### 3. Top Countries
 ![Top Countries](screenshots/04_country_by_type.png.png)
 
 ### 4. Country by Type
-![Country by Type](screenshots/04_country_by_type.png)
+![Country by Type](screenshots/04_country_by_type.png.png)
 
 ### 5. Titles Added by Year
-![Titles Added by Year](screenshots/05_titles_added_by_year.png)
+![Titles Added by Year](screenshots/05_titles_added_by_year.png.png)
 
 ### 6. Release Year by Type
-![Release Year by Type](screenshots/06_release_year_by_type.png)
+![Release Year by Type](screenshots/06_release_year_by_type.png.png)
 
 ### 7. Top Movie Genres
-![Top Movie Genres](screenshots/07_top_movie_genres.png)
+![Top Movie Genres](screenshots/07_top_movie_genres.png.png)
 
 ### 8. Top TV Show Genres
-![Top TV Genres](screenshots/08_top_tv_genres.png)
+![Top TV Genres](screenshots/08_top_tv_genres.png.png)
 
 ### 9. Top Directors
-![Top Directors](screenshots/09_top_directors.png)
+![Top Directors](screenshots/09_top_directors.png.png)
 
 ### 10. Top Actors
-![Top Actors](screenshots/10_top_actors.png)
+![Top Actors](screenshots/10_top_actors.png.png)
 
 ### 11. TV Show Seasons
-![TV Show Seasons](screenshots/11_tv_show_seasons.png)
+![TV Show Seasons](screenshots/11_tv_show_seasons.png.png)
 
 ### 12. Movie Duration
-![Movie Duration](screenshots/12_movie_duration.png)
+![Movie Duration](screenshots/12_movie_duration.png.png)
 
 ### 13. Average Movie Duration
-![Average Movie Duration](screenshots/13_average_movie_duration.png)
+![Average Movie Duration](screenshots/13_average_movie_duration.png.png)
 
 ### 14. Minimum and Maximum Movie Duration
-![Min Max Movie Duration](screenshots/14_min_max_movie_duration.png)
+![Min Max Movie Duration](screenshots/14_min_max_movie_duration.png.png)
 
 ### 15. Rating by Year
-![Rating by Year](screenshots/15_rating_by_year.png)
+![Rating by Year](screenshots/15_rating_by_year.png.png)
